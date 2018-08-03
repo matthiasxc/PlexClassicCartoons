@@ -5,7 +5,7 @@ rem rename all the files
 ren "Title01*" "Disney Animated Shorts - S1940E01 - The Riveter.*"
 ren "Title02*" "Disney Animated Shorts - S1940E02 - Donald's Dog Laundry.*"
 ren "Title03*" "Disney Animated Shorts - S1940E04 - Billposters.*"
-ren "Title04*" "Disney Animated Shorts - S1940E05 - Mr. Duck Steps Out*"
+ren "Title04*" "Disney Animated Shorts - S1940E05 - Mr. Duck Steps Out.*"
 ren "Title05*" "Disney Animated Shorts - S1940E07 - Put-Put Troubles.*"
 ren "Title06*" "Disney Animated Shorts - S1940E08 - Donald's Vacation.*"
 ren "Title07*" "Disney Animated Shorts - S1940E10 - Window Cleaners.*"
