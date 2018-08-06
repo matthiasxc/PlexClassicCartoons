@@ -1,20 +1,18 @@
-
-
 rem rename all the files
-ren "Looney Tunes Golden Collection Disc 1 T01*" "Looney Tunes - S1950E24 - Canary Row.*"
-ren "Looney Tunes Golden Collection Disc 1 T02*" "Looney Tunes - S1950E23 - Bunker Hill Bunny.*"
-ren "Looney Tunes Golden Collection Disc 1 T03*" "Looney Tunes - S1948E29 - Kit for Cat.*"
-ren "Looney Tunes Golden Collection Disc 1 T04*" "Looney Tunes - S1951E05 - Putty Tat Trouble.*"
-ren "Looney Tunes Golden Collection Disc 1 T05*" "Looney Tunes - S1954E07 - Bugs and Thugs.*"
-ren "Looney Tunes Golden Collection Disc 1 T06*" "Looney Tunes - S1951E03 - Canned Feud.*"
-ren "Looney Tunes Golden Collection Disc 1 T07*" "Looney Tunes - S1955E16 - Lumber Jerks.*"
-ren "Looney Tunes Golden Collection Disc 1 T08*" "Looney Tunes - S1955E23 - Speedy Gonzales.*"
-ren "Looney Tunes Golden Collection Disc 1 T09*" "Looney Tunes - S1951E22 - Tweety's S.O.S..*"
-ren "Looney Tunes Golden Collection Disc 1 T10*" "Looney Tunes - S1948E26 - The Foghorn Leghorn.*"
-ren "Looney Tunes Golden Collection Disc 1 T11*" "Looney Tunes - S1949E08 - Daffy Duck Hunt.*"
-ren "Looney Tunes Golden Collection Disc 1 T12*" "Looney Tunes - S1951E12 - Early to Bet.*"
-ren "Looney Tunes Golden Collection Disc 1 T13*" "Looney Tunes - S1959E18 - A Broken Leghorn.*"
-ren "Looney Tunes Golden Collection Disc 1 T14*" "Looney Tunes - S1954E15 - Devil May Hare.*"
+ren "Looney Tunes Golden Collection Disc 1 T01*" "Looney Tunes - S1946E02 - Baseball Bugs.*"
+ren "Looney Tunes Golden Collection Disc 1 T02*" "Looney Tunes - S1952E23 - Rabbit Seasoning.*"
+ren "Looney Tunes Golden Collection Disc 1 T03*" "Looney Tunes - S1949E16 - Long-Haired Hare.*"
+ren "Looney Tunes Golden Collection Disc 1 T04*" "Looney Tunes - S1949E11 - High Diving Hare.*"
+ren "Looney Tunes Golden Collection Disc 1 T05*" "Looney Tunes - S1953E19 - Bully for Bugs.*"
+ren "Looney Tunes Golden Collection Disc 1 T06*" "Looney Tunes - S1950E15 - What's Up Doc_.*"
+ren "Looney Tunes Golden Collection Disc 1 T07*" "Looney Tunes - S1952E27 - Rabbit's Kin.*"
+ren "Looney Tunes Golden Collection Disc 1 T08*" "Looney Tunes - S1952E11 - Water, Water Every Hare.*"
+ren "Looney Tunes Golden Collection Disc 1 T09*" "Looney Tunes - S1950E10 - Big House Bunny.*"
+ren "Looney Tunes Golden Collection Disc 1 T10*" "Looney Tunes - S1951E27 - Big Top Bunny.*"
+ren "Looney Tunes Golden Collection Disc 1 T11*" "Looney Tunes - S1948E32 - My Bunny Lies over the Sea.*"
+ren "Looney Tunes Golden Collection Disc 1 T12*" "Looney Tunes - S1941E40 - Wabbit Twouble.*"
+ren "Looney Tunes Golden Collection Disc 1 T13*" "Looney Tunes - S1951E23 - Ballot Box Bunny.*"
+ren "Looney Tunes Golden Collection Disc 1 T14*" "Looney Tunes - S1950E30 - Rabbit of Seville.*"
 ren "Looney Tunes Golden Collection Disc 2 T01*" "Looney Tunes - S1953E06 - Duck Amuck.*"
 ren "Looney Tunes Golden Collection Disc 2 T02*" "Looney Tunes - S1949E23 - Dough for the Do-Do.*"
 ren "Looney Tunes Golden Collection Disc 2 T03*" "Looney Tunes - S1951E26 - Drip-Along Daffy.*"
@@ -435,4 +433,7 @@ mkdir 1934
 move /y *S1934* .\1934
 mkdir 1968
 move /y *S1968* .\1968
+
+
+
 
