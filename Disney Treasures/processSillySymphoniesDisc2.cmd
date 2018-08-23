@@ -38,8 +38,10 @@ move /y *S1934* .\1934
 mkdir 1935
 move /y *S1935* .\1935
 mkdir 1936
-move /y *S1932* .\1936
+move /y *S1936* .\1936
 mkdir 1937
 move /y *S1937* .\1937
+mkdir 1938
+move /y *S1938* .\1938
 mkdir 1939
 move /y *S1939* .\1939
