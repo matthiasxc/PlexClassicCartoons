@@ -1,6 +1,5 @@
 rem Renaming and organizing for the video from
-rem The Donald Duck download
-
+rem The Complete Pluto Collection
 rem rename all the files
 ren "A01*" "Disney Animated Shorts - S1931E15 - The Chain Gang.*"
 ren "A02*" "Disney Animated Shorts - S1935E14 - On Ice.*"

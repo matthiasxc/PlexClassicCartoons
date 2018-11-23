@@ -1,5 +1,5 @@
 rem Renaming and organizing for the video from
-rem The Donald Duck download
+rem Mickey Mouse in Black and White, Volume 2 Disc 1
 
 rem rename all the files
 ren "Title00*" "Disney Animated Shorts - Mickey Merchandising.*"
