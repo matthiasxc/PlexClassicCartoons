@@ -38,8 +38,12 @@ ren "Title26*" "Disney Animated Shorts - Story Sketches 04.*"
 ren "Title27*" "Disney Animated Shorts - Story Sketches 05.*"
 
 rem create all the folders we need and move the files into them
+mkdir 1928
+move /y *S1928* .\1928
 mkdir 1929
 move /y *S1929* .\1929
+mkdir 1930
+move /y *S1930* .\1930
 mkdir 1931
 move /y *S1931* .\1931
 mkdir 1932
