@@ -82,7 +82,7 @@ ren "Looney Tunes Golden Collection 2 Disc 2 T09*" "Looney Tunes - S1957E03 - Sc
 ren "Looney Tunes Golden Collection 2 Disc 2 T10*" "Looney Tunes - S1957E19 - Zoom and Bored.*"
 ren "Looney Tunes Golden Collection 2 Disc 2 T11*" "Looney Tunes - S1958E07 - Whoa, Be-Gone!.*"
 ren "Looney Tunes Golden Collection 2 Disc 2 T12*" "Looney Tunes - S1951E20 - Cheese Chasers.*"
-ren "Looney Tunes Golden Collection 2 Disc 2 T13*" "Looney Tunes - S1940E34 - The Sour Puss.*"
+ren "Looney Tunes Golden Collection 2 Disc 2 T13*" "Looney Tunes - S1942E31 - The Dover Boys.*"
 ren "Looney Tunes Golden Collection 2 Disc 2 T14*" "Looney Tunes - S1949E10 - Mouse Wreckers.*"
 ren "Looney Tunes Golden Collection 2 Disc 2 T15*" "Looney Tunes - S1951E24 - A Bear for Punishment.*"
 ren "Looney Tunes Golden Collection 2 Disc 3 T01*" "Looney Tunes - S1949E19 - Bad Ol' Putty Tat.*"
