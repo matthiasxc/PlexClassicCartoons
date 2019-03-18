@@ -11,7 +11,7 @@ ren "*05.*" "Disney Animated Shorts - S1929E03 - When The Cat's Away.*"
 ren "*06.*" "Disney Animated Shorts - S1929E10 - The Barnyard Battle.*"
 ren "*07.*" "Disney Animated Shorts - S1929E04 - The Plowboy.*"
 ren "*08.*" "Disney Animated Shorts - S1929E09 - Mickey's Choo Choo.*"
-ren "*09.*" "Disney Animated Shorts - S1929S11 - The Jazz Fool.*"
+ren "*09.*" "Disney Animated Shorts - S1929E11 - The Jazz Fool.*"
 ren "*10.*" "Disney Animated Shorts - S1929E14 - Jungle Rhythm.*"
 ren "*11.*" "Disney Animated Shorts - S1930E07 - Wild Waves.*"
 

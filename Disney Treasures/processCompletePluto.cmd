@@ -82,7 +82,7 @@ move /y *S1944* .\1944
 mkdir 1945
 move /y *S1945* .\1945
 mkdir 1946
-move /y *S1946* .\1946\
+move /y *S1946* .\1946
 mkdir 1947
 move /y *S1947* .\1947
 mkdir 1948
