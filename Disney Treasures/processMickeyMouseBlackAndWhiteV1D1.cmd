@@ -7,21 +7,17 @@ ren "*01.*" "Disney Animated Shorts - S1931E12 - Blue Rhythm.*"
 ren "*02.*" "Disney Animated Shorts - S1930E15 - The Chain Gang.*"
 ren "*03.*" "Disney Animated Shorts - S1932E02 - The Duck Hunt.*"
 ren "*04.*" "Disney Animated Shorts - S1930E13 - The Fire Fighters.*"
-rem This one has the annoying Matlin commentary
 ren "*05.*" "Disney Animated Shorts - S1928E17 - The Gallopin Gaucho.*"
 ren "*06.*" "Disney Animated Shorts - S1930E17 - The Gorilla Mystery.*"
-ren "*07.*" "Disney Animated Shorts - S1929S05 - The Karnival Kid.*"
-rem This one has the annoying Matlin commentary
+ren "*07.*" "Disney Animated Shorts - S1929E05 - The Karnival Kid.*"
 ren "*08.*" "Disney Animated Shorts - S1932E19 - The Klondike Kid.*"
 ren "*09.*" "Disney Animated Shorts - S1931E20 - Mickey Cuts Up.*"
-rem This one has the annoying Matlin commentary 
 ren "*10.*" "Disney Animated Shorts - S1931E10 - Mickey Steps Out.*"
 
 ren "*11.*" "Disney Animated Shorts - S1929E07 - Mickey's Follies.*"
 ren "*12.*" "Disney Animated Shorts - S1932E12 - Mickey's Nightmare.*"
 ren "*13.*" "Disney Animated Shorts - S1931E21 - Mickey's Orphans.*"
 ren "*14.*" "Disney Animated Shorts - S1932E06 - Mickey's Revue.*"
-rem This one has the annoying Matlin commentary 
 ren "*15.*" "Disney Animated Shorts - S1930E20 - Pioneer Days.*"
 ren "*16.*" "Disney Animated Shorts - S1928E11 - Plane Crazy.*"
 ren "*17.*" "Disney Animated Shorts - S1928E20 - Steamboat Willie.*"

@@ -1,5 +1,6 @@
 rem Renaming and organizing for the video from
-rem The Complete Pluto Collection
+rem The Complete Pluto Volume 1 Disc 1
+
 rem rename all the files
 ren "*01.*" "Disney Animated Shorts - The Life and Times of Pluto.*"
 ren "*02.*" "Disney Animated Shorts - An Interview with Andres Deja.*"
