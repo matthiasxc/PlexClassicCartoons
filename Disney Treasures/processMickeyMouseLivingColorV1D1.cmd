@@ -1,5 +1,5 @@
 rem Renaming and organizing for the video from
-rem The Donald Duck download
+rem Mickey Mouse In Living Color Volume 1 Disc 1
 
 rem rename all the files
 ren "*00.*" "Disney Animated Shorts - S1935E03 - The Band Concert.*"
