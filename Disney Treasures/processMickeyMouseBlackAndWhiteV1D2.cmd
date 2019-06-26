@@ -6,7 +6,6 @@ ren "*00.*" "Disney Animated Shorts - S1933E01 - Building a Building.*"
 ren "*01.*" "Disney Animated Shorts - S1934E03 - Camping Out.*"
 ren "*02.*" "Disney Animated Shorts - S1934E16 - The Dognapper.*"
 ren "*03.*" "Disney Animated Shorts - S1933E18 - Giantland.*"
-rem This one has the annoying Matlin commentary
 ren "*04.*" "Disney Animated Shorts - S1934E08 - Gulliver Mickey.*"
 ren "*05.*" "Disney Animated Shorts - S1933E02 - The Mad Doctor.*"
 ren "*06.*" "Disney Animated Shorts - S1933E08 - The Mail Pilot.*"

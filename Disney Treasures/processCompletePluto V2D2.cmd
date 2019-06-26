@@ -12,7 +12,7 @@ ren "*07.*" "Disney Animated Shorts - S1950E08 - Primitive Pluto.*"
 ren "*08.*" "Disney Animated Shorts - S1950E09 - Puss Cafe.*"
 ren "*09.*" "Disney Animated Shorts - S1950E06 - Wonder Dog.*"
 
-ren "*10*" "Disney Animated Shorts - Latter Pluto Summary.*"
+ren "*10.*" "Disney Animated Shorts - Latter Pluto Summary.*"
 ren "*11.*" "Disney Animated Shorts - Pluto Volume 2 Disc 2 Introduction.*"
 ren "*12.*" "Disney Animated Shorts - S1948E10 - Cat Nap Pluto.*"
 ren "*13.*" "Disney Animated Shorts - S1951E14 - Cold Turkey.*"
@@ -26,3 +26,4 @@ mkdir 1950
 move /y *S1950* .\1950
 mkdir 1951
 move /y *S1951* .\1951
+tru the mi
