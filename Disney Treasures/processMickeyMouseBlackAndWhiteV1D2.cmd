@@ -2,17 +2,17 @@ rem Renaming and organizing for the video from
 rem Mickey Mouse in Black and White, Volume 1 Disc 1
 
 rem rename all the files
-ren "*00.*" "Disney Animated Shorts - S1933E01 - Building a Building.*"
-ren "*01.*" "Disney Animated Shorts - S1934E03 - Camping Out.*"
-ren "*02.*" "Disney Animated Shorts - S1934E16 - The Dognapper.*"
-ren "*03.*" "Disney Animated Shorts - S1933E18 - Giantland.*"
-ren "*04.*" "Disney Animated Shorts - S1934E08 - Gulliver Mickey.*"
-ren "*05.*" "Disney Animated Shorts - S1933E02 - The Mad Doctor.*"
-ren "*06.*" "Disney Animated Shorts - S1933E08 - The Mail Pilot.*"
-ren "*07.*" "Disney Animated Shorts - S1933S11 - Mickey's Gala Premier.*"
-ren "*08.*" "Disney Animated Shorts - S1935E04 - Mickey's Service Station.*"
-ren "*09.*" "Disney Animated Shorts - S1934E12 - Orphan's Benefit.*"
-ren "*10.*" "Disney Animated Shorts - S1933E17 - The Pet Store.*"
+rem "*00.*" "Disney Animated Shorts - S1933E01 - Building a Building.*"
+rem "*01.*" "Disney Animated Shorts - S1934E03 - Camping Out.*"
+rem "*02.*" "Disney Animated Shorts - S1934E16 - The Dognapper.*"
+rem "*03.*" "Disney Animated Shorts - S1933E18 - Giantland.*"
+rem "*04.*" "Disney Animated Shorts - S1934E08 - Gulliver Mickey.*"
+rem "*05.*" "Disney Animated Shorts - S1933E02 - The Mad Doctor.*"
+rem "*06.*" "Disney Animated Shorts - S1933E08 - The Mail Pilot.*"
+rem "*07.*" "Disney Animated Shorts - S1933S11 - Mickey's Gala Premier.*"
+rem "*08.*" "Disney Animated Shorts - S1935E04 - Mickey's Service Station.*"
+rem "*09.*" "Disney Animated Shorts - S1934E12 - Orphan's Benefit.*"
+rem "*10.*" "Disney Animated Shorts - S1933E17 - The Pet Store.*"
 
 ren "*11.*" "Disney Animated Shorts - S1933E14 - Puppy Love.*"
 ren "*12.*" "Disney Animated Shorts - S1934E17 - Two Gun Mickey.*"
