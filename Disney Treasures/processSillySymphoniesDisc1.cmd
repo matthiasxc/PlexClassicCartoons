@@ -25,7 +25,7 @@ ren "*20.*" "Disney Animated Shorts - S1935E08d - Water Babies (with commentary)
 ren "*21.*" "Disney Animated Shorts - S1935E10d - Who Killed Cock Robin (with commentary).*"
 ren "*22.*" "Disney Animated Shorts - S1938E07d - Wynken Blynken and Nod (with Disney commentary).*"
 ren "*23.*" "Disney Animated Shorts - S1934E04d - The Grasshopper and the Ant (with Disney commentary).*"
-ren "*24.*" "Disney Animated Shorts - S1939E03d - The Practical Pig (with Disney commentary).*"
+ren "*24.*" "Disney Animated Shorts - S1939E04 - The Practical Pig (with Disney commentary).*"
 
 rem create all the folders we need and move the files into them
 mkdir 1931
