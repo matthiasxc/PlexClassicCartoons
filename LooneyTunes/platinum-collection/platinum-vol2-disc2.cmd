@@ -72,5 +72,3 @@ mkdir 1958
 move /y *S1958* .\1958
 mkdir 1959
 move /y *S1959* .\1959
-mkdir 1966
-move /y *S1966* .\1966
