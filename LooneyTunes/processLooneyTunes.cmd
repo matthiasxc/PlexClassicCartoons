@@ -129,7 +129,7 @@ ren "Looney Tunes Golden Collection Volume 3 Disc 1 T11*" "Looney Tunes - S1943E
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T12*" "Looney Tunes - S1949E02 - Hare Do.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T13*" "Looney Tunes - S1949E09 - Rebel Rabbit.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 1 T14*" "Looney Tunes - S1950E19 - Hillbilly Hare.*"
-ren "Looney Tunes Golden Collection Volume 3 Disc 1 T15*" "Looney Tunes - S1953E24 - Duck Rabbit Duck.*"
+ren "Looney Tunes Golden Collection Volume 3 Disc 1 T15*" "Looney Tunes - S1953E25 - Duck Rabbit Duck.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 2 T01*" "Looney Tunes - S1938E37 - Daffy Duck in Hollywood.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 2 T02*" "Looney Tunes - S1935E20 - Hollywood Capers.*"
 ren "Looney Tunes Golden Collection Volume 3 Disc 2 T03*" "Looney Tunes - S1936E30 - The CooCoo Nut Grove.*"
